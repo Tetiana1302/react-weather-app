@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://github.com/Tetiana1302/react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             open-sorced on GitHub
           </a>
